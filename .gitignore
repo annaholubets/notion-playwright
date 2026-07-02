@@ -1,0 +1,15 @@
+# Project exclude paths
+/dist/
+/output/
+/src/**/*.d.ts
+/src/**/*.d.ts.map
+/src/**/*.js
+/src/**/*.js.map
+/.chrome-profile/
+/.idea/
+/node_modules/
+/.env
+eslint.config.js
+eslint.config.d.ts
+*.map
+/chrome-profile/
